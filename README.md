@@ -8,8 +8,8 @@ A Demo project of Jetpack compose UI with MVVM architecture. This app contains b
 
 ## Dummy Credentials
 Below are dummy credentials.you can create your own credentials by registering yourself.
-email:- marty@gmail.com
-pass:- 123456
+.Email:- marty@gmail.com
+.Password:- 123456
 
 
 ## Screenshots
