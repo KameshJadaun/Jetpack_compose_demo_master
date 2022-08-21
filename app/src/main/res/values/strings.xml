@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack_compose_practice</string>
+    <string name="title_activity_signup">SignupActivity</string>
+</resources>
