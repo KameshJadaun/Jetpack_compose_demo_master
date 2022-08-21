@@ -1,5 +1,5 @@
 # Jetpack_compose_demo_master
-A Demo project of Jetpack compose UI with MVVM architecture.This app contains below pages.
+A Demo project of Jetpack compose UI with MVVM architecture. This app contains below pages.
 1. Login
 2. Signup
 3. Home
@@ -9,7 +9,7 @@ A Demo project of Jetpack compose UI with MVVM architecture.This app contains be
 ## Dummy Credentials
 email- marty@gmail.com
 pass- 123456
-you can create your own credentials by registering yourself.
+\n you can create your own credentials by registering yourself.
 
 ## Screenshots
 
