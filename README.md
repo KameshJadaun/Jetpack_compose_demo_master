@@ -8,8 +8,10 @@ A Demo project of Jetpack compose UI with MVVM architecture. This app contains b
 
 ## Dummy Credentials
 Below are dummy credentials.you can create your own credentials by registering yourself.
-.Email:- marty@gmail.com
-.Password:- 123456
+
+Email:- marty@gmail.com
+
+Password:- 123456
 
 
 ## Screenshots
@@ -35,6 +37,7 @@ Drawer
 
 
 WebView
+
 A demo url of Dainik bhasker is added for dummy view.
 
 <img alt="img_4.png" height="400" src="img_4.png" width="200"/>
